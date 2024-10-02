@@ -18,12 +18,12 @@ Una vez activado, estarás listo para ejecutar los scripts de las tareas descrit
 
 ## Índice
 
-1. [Tarea 1: Cuenta de Píxeles Blancos por Filas](#Tarea-1:-Cuenta-de-Píxeles-Blancos-por-Filas)
+1. [Tarea 1 Cuenta de Píxeles Blancos por Filas](#Tarea-1-Cuenta-de-Píxeles-Blancos-por-Filas)
 2. [Tarea 2: Umbralizado y Conteo de Píxeles Sobel vs. Canny](#Tarea-2)
 3. [Tarea 3: Demostrador con Cámara y Funciones de OpenCV](#Tarea-3)
 4. [Tarea 4: Demostrador Inspirado en Vídeos](#Tarea-4)
 
-## Tarea 1: Cuenta de Píxeles Blancos por Filas
+## Tarea 1 Cuenta de Píxeles Blancos por Filas
 
 ### Descripción
 Realiza la cuenta de píxeles blancos por filas (en lugar de por columnas). Determina el valor máximo de píxeles blancos para filas, maxfil, mostrando el número de filas y sus respectivas posiciones, con un número de píxeles blancos mayor o igual que 0.95*maxfil.
